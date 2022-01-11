@@ -7,10 +7,8 @@ module.exports = {
   theme: {
     screens: {
       sm: '375px',
-      md: '768px',
-      lg: '1024px',
-      xl: '1440px',
-      '2xl': '1536px',
+      md: '1024px',
+      lg: '1440px',
     },
     colors: {
       transparent: 'transparent',
@@ -28,7 +26,7 @@ module.exports = {
       pink: colors.pink,
       'purple': '#a5b0c5',
       'cyan': 'hsl(176, 68%, 64%)',
-      'dark': 'hsl(218, 28%, 13%)',
+      'dark': '#181f2b',
     },
     spacing: {
       px: '1px',

@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy:gh-pages": "npm run build && cd dist && git init && git add -A && git commit -m 'gh-pages' && git push -f git@github.com:vedran77/fylo-landing-page master:gh-pages"
   },
   "dependencies": {
     "@tailwindcss/postcss7-compat": "^2.2.17",

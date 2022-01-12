@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'fylo-landing-page'
+    publicPath: '/fylo-landing-page/'
 };

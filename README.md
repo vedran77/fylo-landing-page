@@ -1,9 +1,9 @@
 # flyo-landing-page  
 
 ## Technology used:
-### VueJS - 3
-### TypeScript - 4.5.0
-### Tailwind CSS - 3.0.13
+- VueJS - 3
+- TypeScript - 4.5.0
+- Tailwind CSS - 3.0.13
 
 ## Live Preview
 [GitHub Pages] https://vedran77.github.io/fylo-landing-page/

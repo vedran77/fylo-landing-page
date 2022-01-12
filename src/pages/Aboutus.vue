@@ -1,7 +1,7 @@
 <template>
     <div class="bg-dark pb-16">
         <div class="container mx-auto">
-            <div class="flex sm:flex-col md:flex-row md:justify-center md:mt-24 msm:mt-16 md:pt-16 sm:pt-20">
+            <div class="flex sm:flex-col md:flex-row md:justify-center md:mt-24 md:pt-48 md:pt-16 sm:pt-20">
                 <AboutusItem 
                     icon="https://raw.githubusercontent.com/vedran77/fylo-landing-page/main/src/assets/home/icon-access-anywhere.svg" 
                     title="Access your files, anywhere" 

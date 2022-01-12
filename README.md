@@ -6,7 +6,7 @@
 ### Tailwind CSS - 3.0.13
 
 ## Live Preview
-[GitHub Pages]https://vedran77.github.io/fylo-landing-page/
+[GitHub Pages] https://vedran77.github.io/fylo-landing-page/
 
 ### Setup flyo-landing-page
 ```

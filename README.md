@@ -20,5 +20,6 @@ npm run build
 ```
 
 ### For development
-```npm run serve```
-
+```
+npm run serve
+```

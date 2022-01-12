@@ -5,10 +5,10 @@
                 <img src="../assets/navbar/logo.png" alt="logo"><br>
             </div>
             <div class="flex md:flex-row sm:flex-col">
-                <div class="flex max-w-lg flex-ro">
+                <div class="flex max-w-lg flex-row">
                     <div class="flex justify-center items-center flex-row">
                         <img src="../assets/footer/location.png" alt="location" width="12" height="12">
-                        <p class="text-purple text-xs ml-4 mr-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+                        <p class="text-purple text-xs ml-4 md:mr-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
                     </div>
                 </div>
 
@@ -23,14 +23,14 @@
                     </div>
                 </div>
 
-                <div class="flex justify-start text-purple flex-col md:ml-60 sm:mt-12 md:mt-0 text-base">
+                <div class="flex justify-start text-purple flex-col md:ml-32 sm:mt-12 md:mt-0 text-base">
                     <a href="#" class="font-heading text-white">About Us</a>
                     <a href="#" class="font-body pt-2">Jobs</a>
                     <a href="#" class="font-body pt-2">Press</a>
                     <a href="#" class="font-body pt-2">Blog</a>
                 </div>
 
-                <div class="flex justify-start text-purple flex-col md:ml-60 sm:mt-12 md:mt-0 text-base">
+                <div class="flex justify-start text-purple flex-col md:ml-32 sm:mt-12 md:mt-0 text-base">
                     <a href="#" class="font-heading text-white">Contact Us</a>
                     <a href="#" class="font-body pt-2">Terms</a>
                     <a href="#" class="font-body pt-2">Privacy</a>

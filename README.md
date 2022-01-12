@@ -1,19 +1,24 @@
-# flyo-landing-page
+# flyo-landing-page  
 
-## Project setup
+## Technology used:
+### VueJS - 3
+### TypeScript - 4.5.0
+### Tailwind CSS - 3.0.13
+
+## Live Preview
+[GitHub Pages]https://vedran77.github.io/fylo-landing-page/
+
+### Setup flyo-landing-page
 ```
+git clone git@github.com:vedran77/fylo-landing-page.git
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
+### For production 
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### For development
+```npm run serve```
+

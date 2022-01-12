@@ -27,6 +27,9 @@ module.exports = {
       'purple': '#a5b0c5',
       'cyan': 'hsl(176, 68%, 64%)',
       'dark': '#181f2b',
+      'secondary': '#1c2431',
+      'lightdark': 'hsl(217, 28%, 15%)',
+      'footerbg': 'hsl(216, 53%, 9%)',
     },
     spacing: {
       px: '1px',
@@ -262,6 +265,7 @@ module.exports = {
       '7xl': ['4.5rem', { lineHeight: '1' }],
       '8xl': ['6rem', { lineHeight: '1' }],
       '9xl': ['8rem', { lineHeight: '1' }],
+      'xxs': ['0.50rem', { lineHeight: '1rem'}]
     },
     fontWeight: {
       thin: '100',
